@@ -1,0 +1,5 @@
+{
+  "name": "TeX's Music Mezcla",
+  "description": "An interactive audio application to dynamically mix multiple vocal tracks against an instrumental. Load your vocal takes, add a backing track, and use the slider to smoothly crossfade between them in real-time. Features creative 'Autopilot' modes for AI-driven vocal shifting effects.",
+  "requestFramePermissions": []
+}
