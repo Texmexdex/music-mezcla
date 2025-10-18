@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # TeX's Music Mezcla - Creative Vocal Blender
 
 TeX's Music Mezcla is a standalone audio mixing application that allows you to blend multiple vocal tracks with an instrumental track directly in your browser. All audio processing happens client-side using the Web Audio API, so no backend or internet connection is required after the initial load.
